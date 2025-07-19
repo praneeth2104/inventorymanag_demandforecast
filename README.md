@@ -1,4 +1,5 @@
-#INVENTORY MANAGMENT  AND DEMAND FORECASTING
+*INVENTORY MANAGMENT  AND DEMAND FORECASTING*
+
 A data-driven solution for optimizing inventory levels and accurately forecasting product demand using time series forecasting techniques.
 
 ##Features
